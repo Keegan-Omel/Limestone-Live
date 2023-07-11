@@ -51,27 +51,27 @@ Refer to the API Endpoints section for details on the available endpoints and th
 Here are the main endpoints provided by the API:
 
 user(folder):
-GET find all users,
-GET find users by I.D.,
-POST create user,
-POST create second user,
-POST create thrid user,
-PUT update user,
-DEL delete user,
+GET find all users/
+GET find users by I.D./
+POST create user/
+POST create second user/
+POST create thrid user/
+PUT update user/
+DEL delete user/
 
 friends(folder):
-POST add friend,
-DEL delete friend,
+POST add friend/
+DEL delete friend/
 
 thoughts(folder):
-GET thoughts,
-GET thoughts by I.D.,
-POST create thougths,
-DEL delete thoughts,
+GET thoughts/
+GET thoughts by I.D./
+POST create thougths/
+DEL delete thoughts/
 
 reactions(folder):
-POST create reaction,
-DEL delete reaction,
+POST create reaction/
+DEL delete reaction/
 
 ## Contributing
 
