@@ -46,7 +46,7 @@ Run npm start to start the server. The API will be accessible at http://localhos
 
 Once the server is up and running, you can start making requests to the API endpoints.
 
-Refer to the API Endpoints section for details on the available endpoints and their usage.
+## API Endpoints
 
 Here are the main endpoints provided by the API:
 
