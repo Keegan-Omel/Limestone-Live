@@ -8,15 +8,18 @@ The API is built using Express.js, a fast and minimalist web application framewo
 
 ## Table of Contents
 
-Project Description
-Getting Started
-Installation
-Configuration
-Running the Application
-Usage
-API Endpoints
-Contributing
-License
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Configuration](#configuration)
+  - [Running the Application](#running-the-application)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 ## Getting Started
 
